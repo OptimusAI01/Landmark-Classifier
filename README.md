@@ -90,7 +90,7 @@ landmark-classification-pytorch/
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/BinarySkull/Landmark-Image-Classification.git
+git clone https://github.com/OptimusAI01/Landmark-Classifier.git
 ```
 
 ### Setting up the Environment
